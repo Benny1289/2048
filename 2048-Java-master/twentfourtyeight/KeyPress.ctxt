@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KeyPress
+comment1.params=
+comment1.target=KeyPress()
+comment2.params=g
+comment2.target=KeyPress\ getKeyPress(Final.Grid)
+comment3.params=kcs
+comment3.target=void\ initKey(java.lang.Integer[])
+comment4.params=k
+comment4.target=void\ keyPressed(java.awt.event.KeyEvent)
+numComments=5

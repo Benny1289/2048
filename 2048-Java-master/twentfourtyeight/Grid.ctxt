@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Grid
+comment1.params=
+comment1.target=void\ addNewTile()
+comment10.params=arg
+comment10.target=int\ offsetCoors(int)
+comment11.params=g
+comment11.target=void\ paint(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ initializeTiles()
+comment3.params=
+comment3.target=java.util.List\ findEmptyIndex()
+comment4.params=
+comment4.target=boolean\ isGridFull()
+comment5.params=
+comment5.target=boolean\ checkIfCanMove()
+comment6.params=
+comment6.target=void\ left()
+comment7.params=
+comment7.target=void\ right()
+comment8.params=
+comment8.target=void\ up()
+comment9.params=
+comment9.target=void\ down()
+numComments=12

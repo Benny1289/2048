@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=n
+comment1.target=Tile(NumbersAndColors)
+comment2.params=
+comment2.target=NumbersAndColors\ value()
+comment3.params=num
+comment3.target=Final.Tile\ valueOf(int)
+comment4.params=
+comment4.target=Final.Tile\ getDouble()
+comment5.params=
+comment5.target=boolean\ empty()
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=
+comment7.target=Final.Tile\ randomTile()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
